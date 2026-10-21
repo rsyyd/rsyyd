@@ -17,6 +17,13 @@ Every claim in the README links to the test that proves it, or is labelled not s
 
 `npm i -g larecode` · `brew tap rsyyd/larecode` · [docs](https://rsyyd.github.io/larecode/) · [source](https://github.com/rsyyd/larecode)
 
+<p align="center">
+  <a href="https://rsyyd.github.io/larecode/"><img src="https://img.shields.io/badge/Docs-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs"></a>
+  <a href="https://www.npmjs.com/package/larecode"><img src="https://img.shields.io/npm/v/larecode?style=for-the-badge&logo=npm&label=npm" alt="npm"></a>
+  <a href="https://github.com/rsyyd/larecode/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rsyyd/larecode?style=for-the-badge" alt="License"></a>
+  <a href="https://t.me/rsyyd_h"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
 ## LPLang — a programming language
 
 Rust, pre-alpha. Gradual typing (Python-like and Rust-like), ARC plus a cycle detector instead of a GC, structured concurrency via nurseries. Design principles and current status are in the README, including what is deliberately not built yet. [source](https://github.com/rsyyd/LPLang)
